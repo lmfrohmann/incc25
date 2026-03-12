@@ -1,0 +1,17 @@
+unit_name,capacity_per_unit,pump_load_per_unit,units,pump_units,pump_efficiency
+Aguayo-Aguilar,90.2,90.5,4,4,0.75
+Aldeadavila,216.0,200.0,2,2,0.75
+Conso,90.0,78.0,3,3,0.75
+GabrielyGalan,111.0,110.0,1,1,0.75
+Guillena,69.0,75.0,3,3,0.75
+IpyUrdiceto,28.0,28.0,3,3,0.75
+LaMuela,216.6,195.3,7,7,0.75
+Montamara,46.0,50.0,2,2,0.75
+Moralets,221.0,221.0,1,1,0.75
+PuenteBibey,63.0,68.0,1,1,0.75
+Sallente,110.0,100.0,4,4,0.75
+TajoEncantada,94.0,105.0,4,4,0.75
+Tanes,61.8,62.0,2,2,0.75
+Torrejon,33.0,18.0,4,4,0.75
+Valdecanas,83.0,75.0,3,3,0.75
+Villarino,143.0,140.0,6,6,0.75

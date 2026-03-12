@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+scipy
+
+# ML / Boosting
+scikit-learn
+catboost
+lightgbm
+xgboost
+optuna
+
+# Econometrics
+statsmodels
+pygam
+
+# Visualization
+plotly
+
+# Data fetching
+requests
+
+# Notebooks
+jupyter

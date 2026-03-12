@@ -1,0 +1,15 @@
+DEFAULT_LGB_PARAMS = {
+    "objective": "regression",
+    "metric": "rmse",
+    "boosting_type": "gbdt",
+    "learning_rate": 0.03,
+    "num_leaves": 127,
+    "min_child_samples": 20,
+    "feature_fraction": 0.8,
+    "bagging_fraction": 0.8,
+    "bagging_freq": 5,
+    "reg_alpha": 0.1,
+    "reg_lambda": 1.0,
+    "verbose": -1,
+    "seed": 42,
+}
