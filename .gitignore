@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.eggs/
+
+# Model artifacts
+**/catboost_info/
+*.cbm
+*.lgbm
+*.xgb
+
+# Archived and intermediate outputs
+output/archive/
+output/econ*_ml*_blend.csv
+output/econ_only_avg.csv
+output/lr_baseline.csv
+output/rf_baseline.csv
+
+# R (legacy)
+archive/
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Report (only report.pdf is tracked)
+report/Final_Report_incc25.pdf
+report/theoretical_foundations.pdf
+report/*.tex
+report/*.aux
+report/*.log
+report/*.toc
+report/*.out
+report/*.bbl
+report/*.blg
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
